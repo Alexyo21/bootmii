@@ -1,3 +1,4 @@
 [submodule "mini"]
 	path = mini
-	url = https://github.com/fail0verflow/mini
+	url = https://github.com/Alexyo21/mini-test.git
+	branch = master
