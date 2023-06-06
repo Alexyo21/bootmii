@@ -11,7 +11,7 @@ CFLAGS += -fomit-frame-pointer -ffunction-sections
 CFLAGS += -Wall -Wextra -Os -pipe
 
 # uncomment to enabled LCD debug output
-#DEFINES += -DENABLE_LCD
+DEFINES += -DENABLE_LCD
 DEFINES += -DLOADER
 
 LDFLAGS += -Wl,-N
